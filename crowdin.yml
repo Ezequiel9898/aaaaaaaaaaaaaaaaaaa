@@ -1,17 +1,1 @@
-files:
-  - source: config/ftbquests/quests/chapters/*
-    ignore:
-      - a_little_help.snbt
-      - bossesminibosses_in_this_realm.snbt
-      - brewing.snbt
-      - dawncraft.snbt
-      - enchanting.snbt
-      - exploration.snbt
-      - lost__found_quest_map_replacements.snbt
-      - magic.snbt
-      - reforging_and_socketing.snbt
-      - storage.snbt
-      - test.snbt
-      - useful_commands_for_servers.snbt
-      - witchcraft.snbt
-    translation: '%original_path%/%original_file_name%'
+files: []
