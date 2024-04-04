@@ -14,4 +14,4 @@ files:
       - test.snbt
       - useful_commands_for_servers.snbt
       - witchcraft.snbt
-    translation: config/%original_path%/%original_file_name%
+    translation: '%original_path%/%original_file_name%'
