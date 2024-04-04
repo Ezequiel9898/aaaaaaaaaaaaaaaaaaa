@@ -1,1 +1,3 @@
-files: []
+files:
+  - source: global_packs/required_resources/Tradução DawnCraft PT_BR/assets/dawncraft-quest/lang
+    translation: global_packs/%original_path%/%original_file_name%
