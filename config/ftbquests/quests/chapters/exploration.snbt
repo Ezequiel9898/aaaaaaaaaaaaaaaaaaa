@@ -158,9 +158,9 @@
 							display: {
 								Name: "{\"text\":\"§bPortal do Eterno Entardecer\"}"
 								Lore: [
-									"{\"text\":\"Cria um Portal para o Eterno Entardecer aceso.\"}"
-									"{\"text\":\"Requer o mesmo espaço que um Portal do\"}"
-									"{\"text\":\"Nether\"}"
+									"{\"text\":\"Cria um Portal para o Eterno Entardecer\"}"
+									"{\"text\":\"aceso. Requer o mesmo espaço que um\"}"
+									"{\"text\":\"Portal do Nether\"}"
 								]
 							}
 						}
@@ -185,9 +185,9 @@
 							display: {
 								Name: "{\"text\":\"§bPortal do Eterno Amanhecer\"}"
 								Lore: [
-									"{\"text\":\"Cria um Portal do Eterno Amanhecer aceso.\"}"
-									"{\"text\":\"Requer o mesmo espaço que um Portal do\"}"
-									"{\"text\":\"Nether\"}"
+									"{\"text\":\"Cria um Portal para o Eterno Amanhecer\"}"
+									"{\"text\":\"aceso. Requer o mesmo espaço que um\"}"
+									"{\"text\":\"Portal do Nether\"}"
 								]
 							}
 						}
@@ -672,3 +672,4 @@
 	]
 	quest_links: [ ]
 }
+
