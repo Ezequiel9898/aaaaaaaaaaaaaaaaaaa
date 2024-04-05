@@ -156,11 +156,11 @@
 						Count: 1b
 						tag: {
 							display: {
-								Name: "{\"text\":\"§bEverbright Portal\"}"
+								Name: "{\"text\":\"§bPortal do Eterno Entardecer\"}"
 								Lore: [
-									"{\"text\":\"Creates a lit Everbright portal.\"}"
-									"{\"text\":\"Requires the same space as a\"}"
-									"{\"text\":\"Nether Portal\"}"
+									"{\"text\":\"Cria um Portal para o Eterno Entardecer aceso.\"}"
+									"{\"text\":\"Requer o mesmo espaço que um Portal do\"}"
+									"{\"text\":\"Nether\"}"
 								]
 							}
 						}
@@ -183,11 +183,11 @@
 						Count: 1b
 						tag: {
 							display: {
-								Name: "{\"text\":\"§bEverdawn Portal\"}"
+								Name: "{\"text\":\"§bPortal do Eterno Amanhecer\"}"
 								Lore: [
-									"{\"text\":\"Creates a lit EverDawn portal.\"}"
-									"{\"text\":\"Requires the same space as a\"}"
-									"{\"text\":\"Nether Portal\"}"
+									"{\"text\":\"Cria um Portal do Eterno Amanhecer aceso.\"}"
+									"{\"text\":\"Requer o mesmo espaço que um Portal do\"}"
+									"{\"text\":\"Nether\"}"
 								]
 							}
 						}
