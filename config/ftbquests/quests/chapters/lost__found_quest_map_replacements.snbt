@@ -65,7 +65,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests0.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p goblinsanddungeons:ruined_keep \"主线任务——哥布林国王的城堡（替换）\""
+					command: "/dc addWaypoint @p custom:toolsmith_ruin \"Pedido do Ferreiro (Substituída)\""
 				}
 			]
 		}
@@ -126,7 +126,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests1.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:ogre_dwelling \"Missão Principal - Habitat do Ogro Corrompido (Suubstituída)\""
+					command: "/dc addWaypoint @p custom:ogre_dwelling \"Missão Principal - Habitat do Ogro Corrompido (Substituída)\""
 				}
 			]
 		}
@@ -729,7 +729,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests11.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:church \"A Igreja do Padre (Substituída)\""
+					command: "/dc addWaypoint @p custom:church \"Igreja do Padre (Substituída)\""
 				}
 			]
 		}
@@ -834,7 +834,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests13.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p quest_giver:pillager_hideout \"救援请求——掠夺者藏身地（替换）\""
+					command: "/dc addWaypoint @p quest_giver:pillager_hideout \"Missão Principal - Esconderijo dos Saqueadores (Substituída)\""
 				}
 			]
 		}
@@ -895,7 +895,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests14.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p quest_giver:pillager_base \"救援请求——掠夺者基地（替换）\""
+					command: "/dc addWaypoint @p quest_giver:pillager_base \"Pedido de Resgate - Base dos Saqueadores (Substituída)\""
 				}
 			]
 		}
@@ -956,7 +956,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests15.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p quest_giver:cave_dwelling \"清剿请求——洞穴栖兽（替换）\""
+					command: "/dc addWaypoint @p quest_giver:cave_dwelling \"Contrato de Extermínio - Habitante das Cavernas (Substituída)\""
 				}
 			]
 		}
@@ -1017,7 +1017,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests16.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p quest_giver:giant_hideout \"清剿请求——巨人（替换）\""
+					command: "/dc addWaypoint @p quest_giver:giant_hideout \"Contrato de Extermínio - O Gigante (Substituída)\""
 				}
 			]
 		}
@@ -1070,7 +1070,8 @@
 					type: "command"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests17.rewards1.title}"
 					icon: "minecraft:compass"
-					command: "/dc addWaypoint @p custom:rootless \"漂浮之宫（替换）\""
+					command: "/dc addWaypoint @p custom:rootless \"Palácio Flutuante (Substituída)\""
+
 				}
 			]
 		}
@@ -1124,7 +1125,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests18.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:librarian_ruin \"图书管理员的请求（替换）\""
+					command: "/dc addWaypoint @p custom:librarian_ruin \"Pedido do Bibliotecário (Substituída)\""
 				}
 			]
 		}
@@ -1185,7 +1186,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests19.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:fallen_house \"矿工的请求——善良的幽灵（替换）\""
+					command: "/dc addWaypoint @p custom:fallen_house \"Pedido do Minerador - Um Espírito Familiar (Substituída)\""
 				}
 			]
 		}
@@ -1246,7 +1247,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests20.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:wolf_hideout \"矿工的请求——生物清剿（替换）\""
+					command: "/dc addWaypoint @p custom:wolf_hideout \"Pedido do Minerador - Extermínio da Criatura (Substituída)\""
 				}
 			]
 		}
@@ -1402,7 +1403,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests23.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:cult_informer_ruin \"下界学家的请求（替换）\""
+					command: "/dc addWaypoint @p custom:cult_informer_ruin \"Pedido do Netherianógrafo (Substituída)\""
 				}
 			]
 		}
@@ -1456,7 +1457,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests24.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p #custom:pillager_camp \"主线任务——掠夺者营地（替换）\""
+					command: "/dc addWaypoint @p #custom:pillager_camp \"Missão Principal - Campo dos Saqueadores (Substituída)\""
 				}
 			]
 		}
@@ -1565,7 +1566,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests26.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:toolsmith_ruin \"工具匠的请求（请求）\""
+					command: "/dc addWaypoint @p custom:toolsmith_ruin \"Pedido do Ferreiro (Substituída)\""
 				}
 			]
 		}
@@ -1619,7 +1620,7 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests27.rewards1.title}"
 					icon: "minecraft:compass"
 					auto: "enabled"
-					command: "/dc addWaypoint @p custom:obsidian_spikes \"调查武器匠提到的区域（替换）\""
+					command: "/dc addWaypoint @p custom:obsidian_spikes \"Investigue a Área Mencionada pelo Armeiro (Substituída)\""
 				}
 			]
 		}
