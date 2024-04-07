@@ -3,7 +3,7 @@ files:
     ignore:
       - pt-BR
     translation: global_packs/%original_path%/%original_file_name%
-  - source: /global_packs/required_data/DawnCraft_Datapack/data/quest_giver/quests/quest_0000
+  - source: /global_packs/required_data/DawnCraft_Datapack/data/quest_giver/quests
     ignore:
       - pt-BR
     translation: global_packs/%original_path%/%original_file_name%
