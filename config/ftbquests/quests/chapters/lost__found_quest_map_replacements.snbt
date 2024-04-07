@@ -6,7 +6,7 @@
 	title: "{ftbquests.chapter.lost__found_quest_map_replacements.title}"
 	icon: "minecraft:filled_map"
 	default_quest_shape: ""
-	default_hide_dependency_lines: "false"
+	default_hide_dependency_lines: false
 	quests: [
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests0.title}"
@@ -18,15 +18,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -34,7 +32,7 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests0.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "30835954DD5C733D"
 			tasks: [
 				{
@@ -79,15 +77,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -95,7 +91,7 @@
 			y: 1.5d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests1.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "0D9BECCC3E3CD303"
 			tasks: [
 				{
@@ -140,15 +136,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -156,7 +150,7 @@
 			y: 3.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests2.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "0A4E769E4F7AB6FF"
 			tasks: [
 				{
@@ -201,15 +195,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -217,7 +209,7 @@
 			y: 4.5d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests3.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "753BD084B4C21084"
 			tasks: [
 				{
@@ -262,15 +254,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -278,7 +268,7 @@
 			y: 6.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests4.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "508075C89E7B209C"
 			tasks: [
 				{
@@ -323,15 +313,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -339,7 +327,7 @@
 			y: 7.5d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests5.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "3B8C06BBF091082F"
 			tasks: [
 				{
@@ -384,15 +372,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -400,7 +386,7 @@
 			y: 9.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests6.subtitle}"
 			dependencies: ["0ABA6BD0DB5C112A"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "49DAB9F443A7F3D5"
 			tasks: [
 				{
@@ -445,15 +431,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -461,15 +445,13 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests7.subtitle}"
 			dependencies: ["4FC5EEDBBDC49DB2"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "23D8B8F8FEF40559"
-			tasks: [
-				{
+			tasks: [{
 					id: "48DB87B6C4727C9C"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests7.tasks0.title}"
-				}
-			]
+				}]
 			rewards: [
 				{
 					id: "43D6ADD22171AAD6"
@@ -499,15 +481,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -515,7 +495,7 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests8.subtitle}"
 			dependencies: ["7B6C09952B8C0FC1"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "35930E74020E9CD6"
 			tasks: [
 				{
@@ -560,15 +540,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -576,7 +554,7 @@
 			y: 1.5d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests9.subtitle}"
 			dependencies: ["7B6C09952B8C0FC1"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "1C9A7B4081E86552"
 			tasks: [
 				{
@@ -621,15 +599,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -637,7 +613,7 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests10.subtitle}"
 			dependencies: ["5269AA694A4374B1"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "5E6AC8F7BFE67F10"
 			tasks: [
 				{
@@ -682,15 +658,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -698,7 +672,7 @@
 			y: 1.5d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests11.subtitle}"
 			dependencies: ["5269AA694A4374B1"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "50BB98D042F4B5AD"
 			tasks: [
 				{
@@ -743,15 +717,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -759,23 +731,19 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests12.subtitle}"
 			dependencies: ["481B801AE3C24573"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "31D7059E6B9E36E2"
-			tasks: [
-				{
+			tasks: [{
 					id: "35C9434F8B1607DE"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests12.tasks0.title}"
-				}
-			]
-			rewards: [
-				{
+				}]
+			rewards: [{
 					id: "20D790E9CE91D77B"
 					type: "item"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests12.rewards0.title}"
 					item: "simple_mobs:rolled_map_3"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests13.title}"
@@ -787,15 +755,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -803,7 +769,7 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests13.subtitle}"
 			dependencies: ["4C90846C71FC8E0F"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "1521F3AADC18655B"
 			tasks: [
 				{
@@ -848,15 +814,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -864,7 +828,7 @@
 			y: 1.5d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests14.subtitle}"
 			dependencies: ["4C90846C71FC8E0F"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "773D7723BE3BC1D4"
 			tasks: [
 				{
@@ -909,15 +873,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -925,7 +887,7 @@
 			y: 3.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests15.subtitle}"
 			dependencies: ["4C90846C71FC8E0F"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "12E531CF67D7980E"
 			tasks: [
 				{
@@ -970,15 +932,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -986,7 +946,7 @@
 			y: 4.5d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests16.subtitle}"
 			dependencies: ["4C90846C71FC8E0F"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "40142BC026F957A9"
 			tasks: [
 				{
@@ -1031,15 +991,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -1047,15 +1005,13 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests17.subtitle}"
 			dependencies: ["28B5DE41A5BB6AFE"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "000D5ADAD525647F"
-			tasks: [
-				{
+			tasks: [{
 					id: "437E462185701E16"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests17.tasks0.title}"
-				}
-			]
+				}]
 			rewards: [
 				{
 					id: "672D549FA97EE6C8"
@@ -1071,7 +1027,6 @@
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests17.rewards1.title}"
 					icon: "minecraft:compass"
 					command: "/dc addWaypoint @p custom:rootless \"Palácio Flutuante (Substituída)\""
-
 				}
 			]
 		}
@@ -1085,15 +1040,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -1101,15 +1054,13 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests18.subtitle}"
 			dependencies: ["09F497A2709AA63E"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "7BDFDE66F98FE0A9"
-			tasks: [
-				{
+			tasks: [{
 					id: "639C7321C4CB352C"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests18.tasks0.title}"
-				}
-			]
+				}]
 			rewards: [
 				{
 					id: "00E770AC02EF56A9"
@@ -1139,15 +1090,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -1155,7 +1104,7 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests19.subtitle}"
 			dependencies: ["7E976B50F2FFF58B"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "18876D956F663EFA"
 			tasks: [
 				{
@@ -1200,15 +1149,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -1216,7 +1163,7 @@
 			y: 1.5d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests20.subtitle}"
 			dependencies: ["7E976B50F2FFF58B"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "40940A3B7104D6C8"
 			tasks: [
 				{
@@ -1261,15 +1208,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -1277,7 +1222,7 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests21.subtitle}"
 			dependencies: ["34B3E66AA494516A"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "5B17DE6DF8637019"
 			tasks: [
 				{
@@ -1293,14 +1238,12 @@
 					stage: "netherian2"
 				}
 			]
-			rewards: [
-				{
+			rewards: [{
 					id: "5D134AA06967BB5D"
 					type: "item"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests21.rewards0.title}"
 					item: "simple_mobs:rolled_map_1"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests22.title}"
@@ -1312,15 +1255,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -1328,7 +1269,7 @@
 			y: 1.5d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests22.subtitle}"
 			dependencies: ["34B3E66AA494516A"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "3C20C68F7702BA74"
 			tasks: [
 				{
@@ -1344,14 +1285,12 @@
 					stage: "netherian3"
 				}
 			]
-			rewards: [
-				{
+			rewards: [{
 					id: "1FE70106A1BDB426"
 					type: "item"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests22.rewards0.title}"
 					item: "simple_mobs:rolled_map_2"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests23.title}"
@@ -1363,15 +1302,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -1379,15 +1316,13 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests23.subtitle}"
 			dependencies: ["3D75F9709BE33F97"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "2A20AAF1015F14E4"
-			tasks: [
-				{
+			tasks: [{
 					id: "0DB69F32DFC3BC58"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests23.tasks0.title}"
-				}
-			]
+				}]
 			rewards: [
 				{
 					id: "5293B6C4A4B609B8"
@@ -1417,15 +1352,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -1433,15 +1366,13 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests24.subtitle}"
 			dependencies: ["33F3C54925241380"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "40CB16418A2F000A"
-			tasks: [
-				{
+			tasks: [{
 					id: "1B5DAD404D8EC2E9"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests24.tasks0.title}"
-				}
-			]
+				}]
 			rewards: [
 				{
 					id: "5291B8D6EC519120"
@@ -1471,15 +1402,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -1488,7 +1417,7 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests25.subtitle}"
 			description: ["{ftbquests.chapter.lost__found_quest_map_replacements.quests25.description}"]
 			dependencies: ["4A988B619723BE75"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "55EF65B04567D5F9"
 			tasks: [
 				{
@@ -1504,17 +1433,15 @@
 					stage: "skull"
 				}
 			]
-			rewards: [
-				{
+			rewards: [{
 					id: "2088F1B6AC1AF3FA"
 					type: "command"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests25.rewards0.title}"
 					icon: "simple_mobs:rolled_map_1"
 					auto: "enabled"
 					command: "/loot give @p loot minecraft:skull_island"
-					player_command: "true"
-				}
-			]
+					player_command: true
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests26.title}"
@@ -1526,15 +1453,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -1542,15 +1467,13 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests26.subtitle}"
 			dependencies: ["35129EA4C68F2F88"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "48D40F977F0E8F22"
-			tasks: [
-				{
+			tasks: [{
 					id: "253138908BB5EE20"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests26.tasks0.title}"
-				}
-			]
+				}]
 			rewards: [
 				{
 					id: "66CB38D637BD5EF0"
@@ -1580,15 +1503,13 @@
 						Name: "{\"text\":\"Vila\"}"
 						Lore: ["{\"text\":\"Um mapa marcando a vila mais próxima de você... Eu me pergunto por que está aqui.\"}"]
 					}
-					Decorations: [
-						{
+					Decorations: [{
 							type: 26b
 							x: -496.0d
 							id: "+"
 							z: -192.0d
 							rot: 180.0d
-						}
-					]
+					}]
 					map: 0
 				}
 			}
@@ -1596,15 +1517,13 @@
 			y: 0.0d
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests27.subtitle}"
 			dependencies: ["7F1AE7C5CF2DB045"]
-			can_repeat: "true"
+			can_repeat: true
 			id: "525717BA9952D917"
-			tasks: [
-				{
+			tasks: [{
 					id: "1E2EA2BB0BAAEE6E"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests27.tasks0.title}"
-				}
-			]
+				}]
 			rewards: [
 				{
 					id: "2B03C6930B1768F1"
@@ -1640,13 +1559,11 @@
 			]
 			size: 2.0d
 			id: "0DA136A1D5894848"
-			tasks: [
-				{
+			tasks: [{
 					id: "65E71F39BDD07E1B"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests28.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests29.title}"
@@ -1662,15 +1579,13 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests29.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "33F3C54925241380"
-			tasks: [
-				{
+			tasks: [{
 					id: "795EC2590BD66E12"
 					type: "gamestage"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests29.tasks0.title}"
 					icon: "minecraft:filled_map"
 					stage: "guildmaster1"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests30.title}"
@@ -1680,13 +1595,11 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests30.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "0ABA6BD0DB5C112A"
-			tasks: [
-				{
+			tasks: [{
 					id: "530826E234FE06F2"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests30.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests31.title}"
@@ -1702,15 +1615,13 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests31.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "4FC5EEDBBDC49DB2"
-			tasks: [
-				{
+			tasks: [{
 					id: "2253E298EB6F3AE4"
 					type: "gamestage"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests31.tasks0.title}"
 					icon: "minecraft:filled_map"
 					stage: "armorer1"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests32.title}"
@@ -1720,13 +1631,11 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests32.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "7B6C09952B8C0FC1"
-			tasks: [
-				{
+			tasks: [{
 					id: "610004FF74CF43F7"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests32.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests33.title}"
@@ -1742,13 +1651,11 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests33.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "5269AA694A4374B1"
-			tasks: [
-				{
+			tasks: [{
 					id: "34AB8769B42739AB"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests33.tasks0.title}"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests34.title}"
@@ -1758,15 +1665,13 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests34.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "481B801AE3C24573"
-			tasks: [
-				{
+			tasks: [{
 					id: "7D53AF9E3751CF3E"
 					type: "gamestage"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests34.tasks0.title}"
 					icon: "minecraft:filled_map"
 					stage: "enderian1"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests35.title}"
@@ -1782,13 +1687,11 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests35.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "4C90846C71FC8E0F"
-			tasks: [
-				{
+			tasks: [{
 					id: "75E33812B57EC3D7"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests35.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests36.title}"
@@ -1804,15 +1707,13 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests36.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "28B5DE41A5BB6AFE"
-			tasks: [
-				{
+			tasks: [{
 					id: "7056D7DB019D7E79"
 					type: "gamestage"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests36.tasks0.title}"
 					icon: "minecraft:filled_map"
 					stage: "hunter1"
-				}
-			]
+				}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests37.title}"
@@ -1822,15 +1723,13 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests37.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "09F497A2709AA63E"
-			tasks: [
-				{
+			tasks: [{
 					id: "238A5A837B0CC211"
 					type: "gamestage"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests37.tasks0.title}"
 					icon: "minecraft:filled_map"
 					stage: "librarian1"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests38.title}"
@@ -1846,13 +1745,11 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests38.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "7E976B50F2FFF58B"
-			tasks: [
-				{
+			tasks: [{
 					id: "05FC25F21151CBC9"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests38.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests39.title}"
@@ -1862,13 +1759,11 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests39.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "34B3E66AA494516A"
-			tasks: [
-				{
+			tasks: [{
 					id: "2AE866F0DDA0323D"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests39.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests40.title}"
@@ -1878,15 +1773,13 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests40.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "3D75F9709BE33F97"
-			tasks: [
-				{
+			tasks: [{
 					id: "61C1AC50E5D3222D"
 					type: "gamestage"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests40.tasks0.title}"
 					icon: "minecraft:filled_map"
 					stage: "netherian1"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests41.title}"
@@ -1896,13 +1789,11 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests41.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "4A988B619723BE75"
-			tasks: [
-				{
+			tasks: [{
 					id: "1B2A63391396F1DF"
 					type: "checkmark"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests41.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests42.title}"
@@ -1918,15 +1809,13 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests42.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "35129EA4C68F2F88"
-			tasks: [
-				{
+			tasks: [{
 					id: "5D97A27229953EE9"
 					type: "gamestage"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests42.tasks0.title}"
 					icon: "minecraft:filled_map"
 					stage: "toolsmith1"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests43.title}"
@@ -1942,16 +1831,15 @@
 			subtitle: "{ftbquests.chapter.lost__found_quest_map_replacements.quests43.subtitle}"
 			dependencies: ["0DA136A1D5894848"]
 			id: "7F1AE7C5CF2DB045"
-			tasks: [
-				{
+			tasks: [{
 					id: "786B8B4FA2CACA49"
 					type: "gamestage"
 					title: "{ftbquests.chapter.lost__found_quest_map_replacements.quests43.tasks0.title}"
 					icon: "minecraft:filled_map"
 					stage: "weaponsmith1"
-				}
-			]
+			}]
 		}
 	]
 	quest_links: [ ]
 }
+

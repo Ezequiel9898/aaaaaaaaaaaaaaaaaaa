@@ -6,7 +6,7 @@
 	title: "{ftbquests.chapter.magic.title}"
 	icon: "irons_spellbooks:mana_ring"
 	default_quest_shape: ""
-	default_hide_dependency_lines: "false"
+	default_hide_dependency_lines: false
 	quests: [
 		{
 			title: "{ftbquests.chapter.magic.quests0.title}"
@@ -22,13 +22,11 @@
 			description: ["{ftbquests.chapter.magic.quests0.description}"]
 			size: 2.0d
 			id: "43BE75F09C4043F8"
-			tasks: [
-				{
+			tasks: [{
 					id: "089777A5C1B95D8D"
 					type: "checkmark"
 					title: "{ftbquests.chapter.magic.quests0.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			title: "{ftbquests.chapter.magic.quests1.title}"
@@ -48,13 +46,11 @@
 			dependencies: ["5D6F2EF2A0FABB1E"]
 			size: 1.5d
 			id: "0614C37C1534939E"
-			tasks: [
-				{
+			tasks: [{
 					id: "21D7529F64458A1B"
 					type: "checkmark"
 					title: "{ftbquests.chapter.magic.quests1.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			title: "{ftbquests.chapter.magic.quests2.title}"
@@ -74,13 +70,11 @@
 			description: ["{ftbquests.chapter.magic.quests2.description}"]
 			dependencies: ["43BE75F09C4043F8"]
 			id: "1F327242C2CCCF3C"
-			tasks: [
-				{
+			tasks: [{
 					id: "5AFA2C0E12D601FD"
 					type: "checkmark"
 					title: "{ftbquests.chapter.magic.quests2.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			x: 2.0d
@@ -88,22 +82,18 @@
 			description: ["{ftbquests.chapter.magic.quests3.description}"]
 			dependencies: ["1F327242C2CCCF3C"]
 			id: "39BD15E37DD2B01C"
-			tasks: [
-				{
+			tasks: [{
 					id: "069021CAEE611130"
 					type: "item"
 					item: "irons_spellbooks:inscription_table"
-					consume_items: "false"
-					only_from_crafting: "false"
-				}
-			]
-			rewards: [
-				{
+					consume_items: false
+					only_from_crafting: false
+			}]
+			rewards: [{
 					id: "364D3C4B4475BC0D"
 					type: "xp"
 					xp: 5
-				}
-			]
+			}]
 		}
 		{
 			x: -7.5d
@@ -111,15 +101,13 @@
 			description: ["{ftbquests.chapter.magic.quests4.description}"]
 			dependencies: ["5D6F2EF2A0FABB1E"]
 			id: "5178B560C8B827E3"
-			tasks: [
-				{
+			tasks: [{
 					id: "56950BA8A3BB0936"
 					type: "item"
 					item: "irons_spellbooks:scroll_forge"
-					consume_items: "false"
-					only_from_crafting: "false"
-				}
-			]
+					consume_items: false
+					only_from_crafting: false
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.magic.quests5.title}"
@@ -135,13 +123,11 @@
 			description: ["{ftbquests.chapter.magic.quests5.description}"]
 			dependencies: ["43BE75F09C4043F8"]
 			id: "4E54C208CEF187D1"
-			tasks: [
-				{
+			tasks: [{
 					id: "63C62CE5AFA476B1"
 					type: "checkmark"
 					title: "{ftbquests.chapter.magic.quests5.tasks0.title}"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.magic.quests6.title}"
@@ -160,13 +146,11 @@
 			]
 			dependencies: ["4E54C208CEF187D1"]
 			id: "1EE082F0F108BFBA"
-			tasks: [
-				{
+			tasks: [{
 					id: "21F74BED3827CB09"
 					type: "checkmark"
 					title: "{ftbquests.chapter.magic.quests6.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			x: -5.0d
@@ -174,15 +158,13 @@
 			description: ["{ftbquests.chapter.magic.quests7.description}"]
 			dependencies: ["0614C37C1534939E"]
 			id: "4CEED19552F9272D"
-			tasks: [
-				{
+			tasks: [{
 					id: "04C0D0354D3DFBA3"
 					type: "item"
 					item: "irons_spellbooks:arcane_essence"
-					consume_items: "false"
-					only_from_crafting: "false"
-				}
-			]
+					consume_items: false
+					only_from_crafting: false
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.magic.quests8.title}"
@@ -206,21 +188,17 @@
 				"607E8D1ADA6ED3A0"
 			]
 			id: "37B5F30D3F4B99F6"
-			tasks: [
-				{
+			tasks: [{
 					id: "3BE9AFC332C9476E"
 					type: "checkmark"
 					title: "{ftbquests.chapter.magic.quests8.tasks0.title}"
-				}
-			]
-			rewards: [
-				{
+				}]
+			rewards: [{
 					id: "56DD80B6574EC6C2"
 					type: "item"
 					item: "irons_spellbooks:blank_rune"
 					count: 3
-				}
-			]
+			}]
 		}
 		{
 			x: -4.0d
@@ -228,15 +206,13 @@
 			description: ["{ftbquests.chapter.magic.quests9.description}"]
 			dependencies: ["0614C37C1534939E"]
 			id: "49B1AA2C35454C74"
-			tasks: [
-				{
+			tasks: [{
 					id: "1B902538D23196EB"
 					type: "item"
 					item: "irons_spellbooks:blank_rune"
-					consume_items: "false"
-					only_from_crafting: "false"
-				}
-			]
+					consume_items: false
+					only_from_crafting: false
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.magic.quests10.title}"
@@ -249,8 +225,7 @@
 			dependencies: ["0614C37C1534939E"]
 			size: 1.4d
 			id: "73A2334F5E27719A"
-			tasks: [
-				{
+			tasks: [{
 					id: "45DD5B0FAD17B43A"
 					type: "item"
 					item: {
@@ -258,8 +233,7 @@
 						Count: 1b
 						tag: { }
 					}
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.magic.quests11.title}"
@@ -276,13 +250,11 @@
 			dependencies: ["0614C37C1534939E"]
 			size: 1.3d
 			id: "28F664AE3CBA9E87"
-			tasks: [
-				{
+			tasks: [{
 					id: "04B7F97553E6079A"
 					type: "checkmark"
 					title: "{ftbquests.chapter.magic.quests11.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			x: 3.0d
@@ -290,21 +262,17 @@
 			description: ["{ftbquests.chapter.magic.quests12.description}"]
 			dependencies: ["28F664AE3CBA9E87"]
 			id: "0CFC93A854B6EBE1"
-			tasks: [
-				{
+			tasks: [{
 					id: "3727B06E2FE205B4"
 					type: "item"
 					item: "irons_spellbooks:cinder_essence"
-				}
-			]
-			rewards: [
-				{
+			}]
+			rewards: [{
 					id: "155E77020EC84993"
 					type: "item"
 					item: "irons_spellbooks:arcane_essence"
 					count: 4
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.magic.quests13.title}"
@@ -315,13 +283,11 @@
 			dependencies: ["43BE75F09C4043F8"]
 			size: 1.5d
 			id: "5D6F2EF2A0FABB1E"
-			tasks: [
-				{
+			tasks: [{
 					id: "4DB549B82B05387F"
 					type: "checkmark"
 					title: "{ftbquests.chapter.magic.quests13.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			x: 6.0d
@@ -329,15 +295,13 @@
 			description: ["{ftbquests.chapter.magic.quests14.description}"]
 			dependencies: ["39BD15E37DD2B01C"]
 			id: "5C76F132FD8587F9"
-			tasks: [
-				{
+			tasks: [{
 					id: "65079F0A627BA537"
 					type: "item"
 					item: "irons_spellbooks:arcane_anvil"
-					consume_items: "false"
-					only_from_crafting: "false"
-				}
-			]
+					consume_items: false
+					only_from_crafting: false
+			}]
 		}
 		{
 			x: 6.0d
@@ -345,13 +309,11 @@
 			description: ["{ftbquests.chapter.magic.quests15.description}"]
 			dependencies: ["0CFC93A854B6EBE1"]
 			id: "607E8D1ADA6ED3A0"
-			tasks: [
-				{
+			tasks: [{
 					id: "450C6924ABAA82D0"
 					type: "item"
 					item: "irons_spellbooks:upgrade_orb"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.magic.quests16.title}"
@@ -359,17 +321,15 @@
 			x: -6.8d
 			y: -2.55d
 			description: ["{ftbquests.chapter.magic.quests16.description}"]
-			hide_dependency_lines: "true"
+			hide_dependency_lines: true
 			dependencies: ["43BE75F09C4043F8"]
 			size: 1.7d
 			id: "142D6C7E522A3208"
-			tasks: [
-				{
+			tasks: [{
 					id: "128B025C180FB6B2"
 					type: "checkmark"
 					title: "{ftbquests.chapter.magic.quests16.tasks0.title}"
-				}
-			]
+				}]
 		}
 		{
 			x: -6.0d
@@ -377,13 +337,11 @@
 			description: ["{ftbquests.chapter.magic.quests17.description}"]
 			dependencies: ["0614C37C1534939E"]
 			id: "4200E32F0492E2E3"
-			tasks: [
-				{
+			tasks: [{
 					id: "58DEDE820A0E14A3"
 					type: "item"
 					item: "irons_spellbooks:common_ink"
-				}
-			]
+			}]
 		}
 		{
 			title: "{ftbquests.chapter.magic.quests18.title}"
@@ -405,21 +363,18 @@
 				"4200E32F0492E2E3"
 			]
 			id: "55DE5FDCFC67E4A2"
-			tasks: [
-				{
+			tasks: [{
 					id: "454D6DA7C5585A1B"
 					type: "checkmark"
 					title: "{ftbquests.chapter.magic.quests18.tasks0.title}"
-				}
-			]
-			rewards: [
-				{
+				}]
+			rewards: [{
 					id: "62DD7A9F0FD11783"
 					type: "item"
 					item: "irons_spellbooks:magic_cloth"
-				}
-			]
+			}]
 		}
 	]
 	quest_links: [ ]
 }
+

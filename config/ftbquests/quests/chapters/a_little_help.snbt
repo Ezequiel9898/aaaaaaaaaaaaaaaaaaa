@@ -6,9 +6,8 @@
 	title: "{ftbquests.chapter.a_little_help.title}"
 	icon: "minecraft:skeleton_skull"
 	default_quest_shape: ""
-	default_hide_dependency_lines: "false"
-	quests: [
-		{
+	default_hide_dependency_lines: false
+	quests: [{
 			icon: {
 				id: "blue_skies:loot_bag"
 				Count: 1b
@@ -24,16 +23,14 @@
 				"{ftbquests.chapter.a_little_help.quests0.description2}"
 			]
 			dependencies: ["39AE937D10D1E511"]
-			hide: "true"
+		hide: true
 			size: 6.0d
 			id: "2D58B982762B47E4"
-			tasks: [
-				{
+		tasks: [{
 					id: "0201BFE770A95958"
 					type: "checkmark"
 					title: "{ftbquests.chapter.a_little_help.quests0.tasks0.title}"
-				}
-			]
+}]
 			rewards: [
 				{
 					id: "6A626CBC962BD8A1"
@@ -49,12 +46,11 @@
 						Count: 1b
 						tag: {
 							RepairCost: 1
-							Enchantments: [
-								{
+						Damage: 0
+						Enchantments: [{
 									lvl: 3s
 									id: "minecraft:sharpness"
-								}
-							]
+						}]
 							Damage: 0
 						}
 					}
@@ -93,7 +89,6 @@
 					}
 				}
 			]
-		}
-	]
+	}]
 	quest_links: [ ]
 }
