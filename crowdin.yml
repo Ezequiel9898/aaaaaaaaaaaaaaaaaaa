@@ -1,5 +1,5 @@
 files:
   - source: global_packs/required_resources/Tradução DawnCraft PT_BR/assets/dawncraft-quest/lang
     ignore:
-      - pt-BR
+      - pt-BRg
     translation: global_packs/%original_path%/%original_file_name%
